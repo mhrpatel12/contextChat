@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/Handlers/ALUserDefaultsHandler.h \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/ALLogs.h \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/build/Applozic.build/Debug-iphonesimulator/Applozic.build/module.modulemap \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/Applozic_Prefix.pch \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/ALUserClientService.m \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/ALUserClientService.h \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/ALLastSeenSyncFeed.h \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/ALUserDetail.h \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/DomainClasses/ALJson.h \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/DomainClasses/ALContact.h \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/ALContactsResponse.h \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/ALUserDetailListFeed.h \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/AlApplicationInfoFeed.h \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/Resources/Files/ALConstant.h \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/Handlers/ALRequestHandler.h \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/Utilities/UIImage+Utility.h \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/Handlers/ALResponseHandler.h \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/Utilities/NSString+Encode.h \
+  /Users/adarsh/Documents/Git/Applozic-iOS-SDK/sample-with-framework/Applozic/Applozic/ALAPIResponse.h
